@@ -2,5 +2,5 @@ homepage: "https://trafficguard.ai/"
 documentation: "https://help.trafficguard.ai/en/knowledge"
 versions:
   # Latest version
-  - sha:
+  - sha: e2aa77aadee182a44daeac2f71039017a971dc78
     changeNotes: Initial release.
